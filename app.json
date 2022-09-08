@@ -3,6 +3,8 @@
     "name": "arg-travel-currencies",
     "slug": "arg-travel-currencies",
     "version": "1.0.0",
+    "owner": "nicolaslazzos",
+    "privacy": "public",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
